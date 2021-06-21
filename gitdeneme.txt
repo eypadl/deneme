@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 1.düzenleme
 2.düzenleme master üzerinden
 4.düzenleme master üzeirnden 
 5.düzenleme text editör
+=======
+1.düzenleme yardımcı1 üzerinden 
+>>>>>>> yardımcı1
